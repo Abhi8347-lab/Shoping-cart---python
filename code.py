@@ -1,3 +1,4 @@
+items=[]
 prices=[]
 while True:
     item= input('Enter the name of the item (p to quit): ')
